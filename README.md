@@ -1,4 +1,4 @@
-📌 Project Description: Movie Recommendation System
+📌 Recommendation System
 The Movie Recommendation System is a content-based filtering application built using Python and Streamlit. It provides movie recommendations based on the similarity of content features like genres, cast, director, and keywords. By utilizing the TMDB 5000 Movie Dataset, this project demonstrates how natural language processing and machine learning techniques can be applied to build a recommendation engine.
 ![Movie Recommendation System Screenshot](https://github.com/alwaysramesh/movie-recommendation-system/blob/main/Screenshot%20(536).png?raw=true)
 
