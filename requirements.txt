@@ -25,10 +25,10 @@ charset-normalizer==3.3.2
 click==8.1.7
 cloudpathlib==0.21.0
 colorama==0.4.6
-comtypes==1.4.9
 confection==0.1.5
 cymem==2.0.11
 defusedxml==0.7.1
+en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl#sha256=1932429db727d4bff3deed6b34cfc05df17794f4a52eeb26cf8928f7c1a0fb85
 fastjsonschema==2.21.1
 Flask==3.0.3
 flatbuffers==25.2.10
@@ -95,7 +95,6 @@ paho-mqtt==2.1.0
 pandas==2.2.3
 pandocfilters==1.5.1
 pillow==11.1.0
-playsound==1.2.2
 preshed==3.0.9
 prometheus_client==0.21.1
 prometheus_flask_exporter==0.23.2
@@ -106,13 +105,9 @@ pydantic==2.11.1
 pydantic_core==2.33.0
 pydeck==0.9.1
 PyJWT==2.9.0
-pypiwin32==223
 python-dateutil==2.9.0.post0
 python-json-logger==3.3.0
-pyttsx3==2.98
 pytz==2024.2
-pywin32==308
-pywinpty==2.0.15
 PyYAML==6.0.2
 referencing==0.36.2
 regex==2024.11.6
